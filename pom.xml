@@ -302,7 +302,7 @@
                 <jdk>1.6</jdk>
             </activation>
             <properties>
-                <findbugs.plugin.version>2.5.5</findbugs.plugin.version>
+                <findbugs.plugin.version>3.0.5</findbugs.plugin.version>
             </properties>
         </profile>
         <profile>
